@@ -1,7 +1,7 @@
 import {
   CustomerReviews,Footer,Hero,PopularProducts,Services,SpecialOffer,Subscribe,SuperQuality
 } from './sections'
-import Nav from './Components/Nav';
+import Nav from './components/Nav';
 
 
 const App =()=>(
