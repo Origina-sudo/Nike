@@ -1,4 +1,4 @@
-# Nike Clone
+# Nike 
 
 This is a clone of the Nike website built with React and styled using Tailwind CSS. The project aims to replicate the user interface and experience of the Nike website. 
 
