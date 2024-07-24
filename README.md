@@ -12,8 +12,9 @@ This is a clone of the Nike website built with React and styled using Tailwind C
 - [Usage](#usage)
 - [Contributing](#contributing)
 ## Demo
-
-A live demo of the project is available [here](#).
+![Screenshot of my game](https://github.com/Origina-sudo/Nike/blob/main/src/assets/Screenshot%202024-07-24%20185036.png)
+![Screenshot of my game](https://github.com/Origina-sudo/Nike/blob/main/src/assets/Screenshot%202024-07-24%20185019.png)
+![Screenshot of my game](https://github.com/Origina-sudo/Nike/blob/main/src/assets/Screenshot%202024-07-24%20184955.png)
 
 ## Features
 
