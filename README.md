@@ -50,7 +50,7 @@ To get a local copy up and running, follow these steps.
 2. Navigate to the project directory:
 
    ```sh
-   cd nike-clone
+   cd Nike
    ```
 
 3. Install dependencies:
