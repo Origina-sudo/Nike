@@ -44,7 +44,7 @@ To get a local copy up and running, follow these steps.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/nike-clone.git
+   git clone https://github.com/Origina-sudo/Nike
    ```
 
 2. Navigate to the project directory:
@@ -66,7 +66,7 @@ To get a local copy up and running, follow these steps.
 1. Start the development server:
 
    ```sh
-   npm start
+   npm start or npm run dev 
    # or
    yarn start
    ```
